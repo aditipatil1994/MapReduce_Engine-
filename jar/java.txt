@@ -1,0 +1,87 @@
+package wordcount;
+
+import java.sql.Connection;
+import java.sql.DriverManager;
+import java.sql.ResultSet;
+import java.sql.Statement;
+import java.util.Scanner;
+
+public class Solution {
+
+	public static void main(String[] argv) throws Exception {
+		long startTime = System.currentTimeMillis();
+		float sum = 0;
+		String S = null;
+		Class.forName("oracle.jdbc.driver.OracleDriver");
+		Connection con = DriverManager.getConnection("jdbc:oracle:thin:@localhost:1521:xe", "aditi", "patil");
+		Statement st = con.createStatement();
+		ResultSet res = st.executeQuery("select COUNTRY , totalprice from STOREDATA10 GROUP BY COUNTRY");
+		while (res.next()) {
+			S = res.getString(1);
+			float c = res.getFloat(2);
+			sum = sum + c;
+			System.out.println("City= " + S + " Total sales = " + c);
+		}
+		con.close();
+
+		long endTime = System.currentTimeMillis();
+		System.out.println(startTime);
+		System.out.println(endTime);
+		long totalTime = endTime - startTime;
+		System.out.println(totalTime);
+
+	}
+}
+**package javaprac;
+
+import java.io.*;
+import java.util.*;
+import java.sql.Connection;
+import java.sql.DriverManager;
+import java.sql.ResultSet;
+import java.sql.Statement;
+import java.util.Scanner;
+public class Solution {
+  public static void main(String[] args) throws Exception {
+	long startTime = System.currentTimeMillis();
+    HashMap map = new HashMap();  
+    String word = null;
+    float sum=0;
+    // read each word from the file
+    //Scanner in = new Scanner(new File("mobydick.txt"));
+   Class.forName("oracle.jdbc.driver.OracleDriver");
+	Connection con = DriverManager.getConnection("jdbc:oracle:thin:@localhost:1521:xe", "aditi", "patil");
+	Statement st = con.createStatement();
+	ResultSet res = st.executeQuery("select COUNTRY , TOTALPRICE from STOREDATA2");
+	 while (res.next()) {
+	      word = res.getString(1);
+	    
+	      float c = res.getFloat(2);
+	    
+	      if(map.containsKey(word)) {
+	       
+	    	  sum = sum + c;
+	        map.put(word, sum);
+	      } else {
+	        
+	    	  map.put(word, c);
+	      }
+	    }
+
+	    
+	    ArrayList arraylist = new ArrayList(map.keySet());
+	    Collections.sort(arraylist);
+	    
+	    for (int i = 0; i < arraylist.size(); i++) {
+	      String key = (String)arraylist.get(i);
+	      float tc = (float)map.get(key);
+	      System.out.println("City= " + key + " Total sales = " + tc);
+	    }
+	    long endTime = System.currentTimeMillis();
+		System.out.println(startTime);
+		System.out.println(endTime);
+		long totalTime = endTime - startTime;
+		System.out.println(totalTime);
+
+	  }
+	}

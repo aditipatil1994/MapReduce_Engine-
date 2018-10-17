@@ -1,0 +1,73 @@
+"Burbank"	Total: 553015.2 :: Total number of sold items 156
+"Cowes"	Total: 938890.0 :: Total number of sold items 312
+"Gensve"	Total: 1412561.8 :: Total number of sold items 372
+"Liverpool"	Total: 1416098.8 :: Total number of sold items 348
+"Osaka"	Total: 811261.2 :: Total number of sold items 240
+"Pasadena"	Total: 1254743.5 :: Total number of sold items 360
+"Reims"	Total: 1620514.4 :: Total number of sold items 492
+"Singapore"	Total: 3461865.8 :: Total number of sold items 948
+"Toulouse"	Total: 845861.7 :: Total number of sold items 240
+"Bergen"	Total: 1339684.0 :: Total number of sold items 348
+"Boras"	Total: 1611112.6 :: Total number of sold items 456
+"Espoo"	Total: 1367533.0 :: Total number of sold items 360
+"Glen Waverly"	Total: 775097.25 :: Total number of sold items 276
+"Minato-ku"	Total: 1446751.6 :: Total number of sold items 384
+"Oulu"	Total: 1252444.6 :: Total number of sold items 384
+"Philadelphia"	Total: 1814269.6 :: Total number of sold items 528
+"Sevilla"	Total: 656683.56 :: Total number of sold items 180
+"Tsawassen"	Total: 895618.75 :: Total number of sold items 312
+"Versailles"	Total: 778012.25 :: Total number of sold items 216
+"Bergamo"	Total: 1655469.5 :: Total number of sold items 576
+"Glendale"	Total: 797085.2 :: Total number of sold items 264
+"Graz"	Total: 627166.8 :: Total number of sold items 180
+"Kobenhavn"	Total: 1740500.6 :: Total number of sold items 432
+"Los Angeles"	Total: 576581.44 :: Total number of sold items 168
+"Madrid"	Total: 1.2990619E7 :: Total number of sold items 3648
+"Montreal"	Total: 890458.06 :: Total number of sold items 264
+"Munich"	Total: 419927.0 :: Total number of sold items 168
+"Nashua"	Total: 1580224.8 :: Total number of sold items 408
+"New Haven"	Total: 953664.6 :: Total number of sold items 204
+"San Diego"	Total: 1049871.0 :: Total number of sold items 300
+"South Brisbane"	Total: 713629.44 :: Total number of sold items 180
+"Allentown"	Total: 1465656.1 :: Total number of sold items 372
+"Boston"	Total: 1848836.6 :: Total number of sold items 528
+"Brisbane"	Total: 602622.0 :: Total number of sold items 180
+"Charleroi"	Total: 401281.06 :: Total number of sold items 96
+"Dublin"	Total: 693077.1 :: Total number of sold items 192
+"Las Vegas"	Total: 993012.7 :: Total number of sold items 348
+"Lille"	Total: 828629.1 :: Total number of sold items 240
+"Oslo"	Total: 950690.44 :: Total number of sold items 288
+"Vancouver"	Total: 902866.56 :: Total number of sold items 264
+"Brickhaven"	Total: 1983063.9 :: Total number of sold items 564
+"Bruxelles"	Total: 899670.2 :: Total number of sold items 300
+"Helsinki"	Total: 1335003.4 :: Total number of sold items 360
+"Koln"	Total: 1203679.4 :: Total number of sold items 312
+"Lyon"	Total: 1714489.6 :: Total number of sold items 492
+"Makati City"	Total: 1128189.1 :: Total number of sold items 312
+"New Bedford"	Total: 2494502.5 :: Total number of sold items 732
+"North Sydney"	Total: 1847952.9 :: Total number of sold items 552
+"San Rafael"	Total: 7858304.5 :: Total number of sold items 2160
+"White Plains"	Total: 1026670.8 :: Total number of sold items 312
+"Barcelona"	Total: 940943.0 :: Total number of sold items 276
+"Bridgewater"	Total: 1222737.9 :: Total number of sold items 300
+"Cambridge"	Total: 1670927.4 :: Total number of sold items 456
+"Frankfurt"	Total: 1022058.56 :: Total number of sold items 264
+"London"	Total: 1497881.9 :: Total number of sold items 456
+"Lule"	Total: 909059.56 :: Total number of sold items 228
+"Manchester"	Total: 1893692.6 :: Total number of sold items 612
+"Marseille"	Total: 899233.5 :: Total number of sold items 300
+"Nantes"	Total: 2451661.8 :: Total number of sold items 720
+"Newark"	Total: 998738.06 :: Total number of sold items 252
+"Salzburg"	Total: 1797582.9 :: Total number of sold items 480
+"Stavern"	Total: 1399190.4 :: Total number of sold items 384
+"Strasbourg"	Total: 965261.4 :: Total number of sold items 228
+"Torino"	Total: 1129407.9 :: Total number of sold items 312
+"Aaarhus"	Total: 1207146.4 :: Total number of sold items 324
+"Burlingame"	Total: 1449397.2 :: Total number of sold items 408
+"Chatswood"	Total: 1818853.4 :: Total number of sold items 552
+"Melbourne"	Total: 2411945.5 :: Total number of sold items 660
+"NYC"	Total: 6746690.0 :: Total number of sold items 1830
+"Paris"	Total: 3227334.8 :: Total number of sold items 840
+"Reggio Emilia"	Total: 1711216.5 :: Total number of sold items 468
+"San Francisco"	Total: 2692304.0 :: Total number of sold items 744
+"San Jose"	Total: 1920122.8 :: Total number of sold items 480

@@ -1,0 +1,4 @@
+"SanJose"	Total: 889808.7 :: Total number of sold items 50000
+"LosAngeles"	Total: 840611.1 :: Total number of sold items 50000
+"SanDiego"	Total: 887066.2 :: Total number of sold items 50000
+"SanFrancisco"	Total: 903369.2 :: Total number of sold items 50000
